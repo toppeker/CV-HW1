@@ -1,3 +1,8 @@
 # CV-HW1
-Computer Vision - ITU - 2018-2019 Fall
-  Histogram Matching with Python3
+Istanbul Technical University - Computer Engineering Department
+
+2018-2019 Fall Term
+
+Computer Vision Course - Project 1 
+
+Histogram Matching with Python3
