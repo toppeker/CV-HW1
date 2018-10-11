@@ -13,12 +13,15 @@ This program takes input and target images and match their histograms. Then outp
 
 - matplotlib
 
+- openCV
+
 
 ## Built With
 
 * [PyQt5](https://pypi.org/project/PyQt5/) - The ui framework used
 * [NumPy](http://www.numpy.org/) - Used to make mathematical operations
 * [matplotlib](https://matplotlib.org/) - Used to plot images and graphs
+* [openCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) - Used to read and write images
 
 ## Authors
 
