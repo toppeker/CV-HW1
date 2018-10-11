@@ -1,6 +1,6 @@
 # Histogram Matching Program
 
-This program takes input and target images and math their histograms. Then outputs the result image.
+This program takes input and target images and match their histograms. Then outputs the result image. The user interface of the program is implemented using PyQt5.
 
 
 ## Prerequisites
