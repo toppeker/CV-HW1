@@ -5,6 +5,8 @@ This program takes input and target images and match their histograms. Then outp
 
 ## Prerequisites
 
+Before you run the program, make sure that these packages are installed.
+
 - Python 3.6
 
 - PyQt5
